@@ -1,0 +1,26 @@
+# Site settings
+name: Less Is More
+email: qiaguango@163.com
+author: Guang Qiao
+#url: http://www.hifreud.com
+#resume_site: 
+github: https://github.com/qiaguango/
+baseurl: ""
+description: 你的指法有改变世界的力量！
+#meta_description: 学而不思则罔;思而不学则殆;生命不止;折腾不休
+#motto: It's our wits that make us men.
+#banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: luoyan35714
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
